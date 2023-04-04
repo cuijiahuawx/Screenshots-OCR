@@ -31,12 +31,12 @@ import PySimpleGUI as sg
 
 # 识别图片文字设置
 # 你的 APPID AK SK
-APP_ID = '24684852'
-API_KEY = '9D4jtGkY609jM2NnsfEpckrw'
-SECRET_KEY = 'wXX8jd1qdIo7sFyPjwwBY0Vn8b78Mmq8'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 # 百度翻译设置
-APPID = '20210811000913882'  # 填写你的appid
-SECRETKEY = 'mzLGWCMOhfpk1GuOaIUz'  # 填写你的密钥
+APPID = ''  # 填写你的appid
+SECRETKEY = ''  # 填写你的密钥
 
 
 screen_width, screen_height = pag.size()
